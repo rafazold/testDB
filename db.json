@@ -102,7 +102,7 @@
       "userId": 1,
       "name": "John Doe",
       "skills": [{"skill": "javascript"}, {"skill": "python"}, {"skill": "react"}, {"skill": "java"}, {"skill": "php"}],
-      "topMatches": [{"company": "IBM"}, {"company": "apple"}, {"company": "Facebook"}],
+      "topMatches": [{"company": "IBM", "id": "1"}, {"company": "apple", "id": "2"}, {"company": "Facebook", "id": "3"}],
       "updateDate": "15/3/2019",
       "email": "johndoe@gmail.com",
       "pictures": [
@@ -114,7 +114,7 @@
       "userId": 1,
       "name": "Pepe Grillo",
       "skills": [{"skill": "javascript"}, {"skill": "php"}],
-      "topMatches": [{"company": "apple"}, {"company": "Facebook"}],
+      "topMatches": [{"company": "apple", "id": "2"}, {"company": "Facebook", "id": "3"}],
       "updateDate": "15/1/2019",
       "email": "pepito@gmail.com",
       "pictures": [
@@ -126,7 +126,7 @@
       "userId": 2,
       "name": "Jack Johnson",
       "skills": [{"skill": "javascript"}, {"skill": "react"}, {"skill": "php"}],
-      "topMatches": [{"company": "IBM"}],
+      "topMatches": [{"company": "IBM", "id": "1"}],
       "updateDate": "11/4/2018",
       "email": "jack@gmail.com",
       "pictures": [
@@ -138,7 +138,7 @@
       "userId": 4,
       "name": "Peter Parker",
       "skills": [{"skill": "javascript"}, {"skill": "php"}],
-      "topMatches": [{"company": "Facebook"}],
+      "topMatches": [{"company": "Facebook", "id": "3"}],
       "updateDate": "1/9/2018",
       "email": "peter@gmail.com",
       "pictures": [
@@ -150,7 +150,7 @@
       "userId": 2,
       "name": "Bruce Wayne",
       "skills": [{"skill": "javascript"}],
-      "topMatches": [{"company": "IBM"}, {"company": "Facebook"}],
+      "topMatches": [{"company": "IBM", "id": "1"}, {"company": "Facebook", "id": "3"}],
       "updateDate": "1/1/2019",
       "email": "bruce@gmail.com",
       "pictures": [
@@ -162,13 +162,24 @@
       "userId": 2,
       "name": "Daniel Martin",
       "skills": [{"skill": "javascript"}],
-      "topMatches": [{"company": "IBM"}, {"company": "Facebook"}],
+      "topMatches": [{"company": "IBM", "id": "1"}, {"company": "Facebook", "id": "3"}],
       "updateDate": "1/1/2019",
       "email": "bruce@gmail.com",
       "pictures": [
         { "url": "https://media.licdn.com/dms/image/C4E03AQGUS1L_IVpU0A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ihPvESeEBJYp8UJKMWviWmGaKzJsVWCen0TcKR_xAYM", "desc": "picture" }
       ],
       "linkedinUrl": "https://www.linkedin.com/in/daniel-mantin-1934b089/"
+    }
+  ],
+  "companies": [
+    { "name": "IBM",
+      "id": "1"
+    },
+    { "name": "Apple",
+      "id": "2"
+    },
+    {"name": "Facebook",
+      "id": "3"
     }
   ]
 }
