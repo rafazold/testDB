@@ -108,7 +108,10 @@
       "pictures": [
         { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image1.png", "desc": "picture" }
       ],
-      "comments": "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette. XOXO subway tile wolf vegan austin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones pickled.\n\nArt party jean shorts disrupt, williamsburg poutine kickstarter pinterest chia pickled. Brooklyn woke farm-to-table shaman. Stumptown vinyl drinking vinegar bushwick, aesthetic +1 wolf kinfolk fashion axe butcher everyday carry chicharrones authentic shoreditch. Wolf fam glossier skateboard la croix. Put a bird on it vaporware drinking vinegar shoreditch tbh stumptown sartorial tilde godard photo booth. Man bun chillwave blog pop-up."
+      "comments": [
+        {"date": "xxx", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette."},
+        {"date": "yyy", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette. XOXO subway tile wolf vegan austin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
+        {"date": "zzz", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman tilde godard photo booth. Man bun chillwave blog pop-up."}]
     },
     {
       "id": 2,
@@ -121,7 +124,10 @@
       "pictures": [
         { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image2.png", "desc": "picture" }
       ],
-      "comments": [{"date": "xxx", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette. XOXO subway tile wolf vegan austin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones pickled.\n\nArt party jean shorts disrupt, williamsburg poutine kickstarter pinterest chia pickled. Brooklyn woke farm-to-table shaman. Stumptown vinyl drinking vinegar bushwick, aesthetic +1 wolf kinfolk fashion axe butcher everyday carry chicharrones authentic shoreditch. Wolf fam glossier skateboard la croix. Put a bird on it vaporware drinking vinegar shoreditch tbh stumptown sartorial tilde godard photo booth. Man bun chillwave blog pop-up."}]
+      "comments": [
+        {"date": "xxx", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette."},
+        {"date": "yyy", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette. XOXO subway tile wolf vegan austin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
+        {"date": "zzz", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman tilde godard photo booth. Man bun chillwave blog pop-up."}]
     },
     {
       "id": 3,
@@ -149,7 +155,11 @@
       "email": "peter@gmail.com",
       "pictures": [
         { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image4.png", "desc": "picture" }
-      ]
+      ],
+      "comments": [
+        {"date": "xxx", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette."},
+        {"date": "yyy", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette. XOXO subway tile wolf vegan austin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
+        {"date": "zzz", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman tilde godard photo booth. Man bun chillwave blog pop-up."}]
     },
     {
       "id": 5,
@@ -161,7 +171,11 @@
       "email": "bruce@gmail.com",
       "pictures": [
         { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image5.png", "desc": "picture" }
-      ]
+      ],
+      "comments": [
+        {"date": "xxx", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette."},
+        {"date": "yyy", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette. XOXO subway tile wolf vegan austin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
+        {"date": "zzz", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman tilde godard photo booth. Man bun chillwave blog pop-up."}]
     },
     {
       "id": 6,
@@ -174,7 +188,11 @@
       "pictures": [
         { "url": "https://media.licdn.com/dms/image/C4E03AQGUS1L_IVpU0A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ihPvESeEBJYp8UJKMWviWmGaKzJsVWCen0TcKR_xAYM", "desc": "picture" }
       ],
-      "linkedinUrl": "https://www.linkedin.com/in/daniel-mantin-1934b089/"
+      "linkedinUrl": "https://www.linkedin.com/in/daniel-mantin-1934b089/",
+      "comments": [
+        {"date": "xxx", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette."},
+        {"date": "yyy", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman raclette. XOXO subway tile wolf vegan austin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
+        {"date": "zzz", "text":  "Lorem ipsum dolor amet tote bag taxidermy jean shorts, swag chia gastropub roof party portland lyft etsy. Leggings chartreuse vape bitters migas, tbh mumblecore shaman tilde godard photo booth. Man bun chillwave blog pop-up."}]
     }
   ],
   "companies": [
