@@ -173,13 +173,16 @@
   ],
   "companies": [
     { "name": "IBM",
-      "id": "1"
+      "id": "1",
+      "website": "http://www.ibm.com"
     },
     { "name": "Apple",
-      "id": "2"
+      "id": "2",
+      "website": "http://www.apple.com"
     },
-    {"name": "Facebook",
-      "id": "3"
+    { "name": "Facebook",
+      "id": "3",
+      "website": "http://www.facebook.com"
     }
   ]
 }
