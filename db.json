@@ -204,7 +204,7 @@
     { "name": "Apple",
       "id": "2",
       "website": "http://www.apple.com",
-      "candidates": [[{"id": 1}, {"id": 3}, {"id": 5}]
+      "candidates": [{"id": 1}, {"id": 3}, {"id": 5}]
     },
     { "name": "Facebook",
       "id": "3",
