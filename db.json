@@ -147,7 +147,7 @@
       "topMatches": [{"company": "Facebook", "id": "3"}],
       "updateDate": "1/9/2018",
       "email": "peter@gmail.com",
-      "picture": { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image4.png", "desc": "picture" },
+      "picture": { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image4.png"},
       "comments": [
         {"date": "xxx", "text":  "Lorem ipsum dolor amet tote bag taxidermy jeanraclette."},
         {"date": "yyy", "text":  "Lorem ipsum tile wolf vegan austin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
