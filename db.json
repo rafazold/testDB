@@ -74,24 +74,24 @@
     {
       "userId": 1,
       "id": 1,
-      "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "skills": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "name": "sunt aut  optio reprehenderit",
+      "skills": "quia etarchitecto",
       "topMatches": "IBM",
       "Date": "15/3/2019"
     },
     {
       "userId": 1,
       "id": 2,
-      "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "skills": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "name": "sunt aut facere repel optio reprehenderit",
+      "skills": "quia et",
       "topMatches": "IBM",
       "Date": "15/3/2019"
     },
     {
       "userId": 1,
       "id": 3,
-      "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "skills": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "name": "sunt aut facerepturi optio reprehenderit",
+      "skills": "quia etrem eveniet architecto",
       "topMatches": "IBM",
       "Date": "15/3/2019"
     }
