@@ -187,17 +187,17 @@
     { "name": "IBM",
       "id": "1",
       "website": "http://www.ibm.com",
-      "candidates": [{"id": 1}, {"id": 2}, {"id": 3}, {"id": 4}, {"id": 5}]
+      "candidates": [{"id": 1}, {"id": 3}, {"id": 5}, {"id": 6}]
     },
     { "name": "Apple",
       "id": "2",
       "website": "http://www.apple.com",
-      "candidates": [{"id": 1}, {"id": 3}, {"id": 5}]
+      "candidates": [{"id": 1}, {"id": 2}]
     },
     { "name": "Facebook",
       "id": "3",
       "website": "http://www.facebook.com",
-      "candidates": [{"id": 1}, {"id": 5}]
+      "candidates": [{{"id": 1}, {"id": 2}, {"id": 4}, {"id": 5}, {"id": 6}]
     }
   ]
 }
