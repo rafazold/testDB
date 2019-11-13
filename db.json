@@ -197,7 +197,7 @@
     { "name": "Facebook",
       "id": "3",
       "website": "http://www.facebook.com",
-      "candidates": [{{"id": 1}, {"id": 2}, {"id": 4}, {"id": 5}, {"id": 6}]
+      "candidates": [{"id": 1}, {"id": 2}, {"id": 4}, {"id": 5}, {"id": 6}]
     }
   ]
 }
