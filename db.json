@@ -187,17 +187,29 @@
     { "name": "IBM",
       "id": "1",
       "website": "http://www.ibm.com",
-      "candidates": [{"id": 1}, {"id": 3}, {"id": 5}, {"id": 6}]
+      "candidates": [{"id": 1}, {"id": 3}, {"id": 5}, {"id": 6}],
+      "comments": [
+        {"date": "xxx", "text":  "Lorem ipsum  shaman raclette."},
+        {"date": "yyy", "text":  "Lorem iaustin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
+        {"date": "zzz", "text":  "Lorem  bun chillwave blog pop-up."}]
     },
     { "name": "Apple",
       "id": "2",
       "website": "http://www.apple.com",
-      "candidates": [{"id": 1}, {"id": 2}]
+      "candidates": [{"id": 1}, {"id": 2}],
+      "comments": [
+        {"date": "xxx", "text":  "Lorem ipsum  shaman raclette."},
+        {"date": "yyy", "text":  "Lorem iaustin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
+        {"date": "zzz", "text":  "Lorem  bun chillwave blog pop-up."}]
     },
     { "name": "Facebook",
       "id": "3",
       "website": "http://www.facebook.com",
-      "candidates": [{{"id": 1}, {"id": 2}, {"id": 4}, {"id": 5}, {"id": 6}]
+      "candidates": [{"id": 1}, {"id": 2}, {"id": 4}, {"id": 5}, {"id": 6}],
+      "comments": [
+        {"date": "xxx", "text":  "Lorem ipsum  shaman raclette."},
+        {"date": "yyy", "text":  "Lorem iaustin vaporware. Pinterest blog post-ironic, raw denim truffaut authentic 8-bit vegan sartorial poutine taxidermy pok pok chicharrones "},
+        {"date": "zzz", "text":  "Lorem  bun chillwave blog pop-up."}]
     }
   ]
 }
